@@ -1,6 +1,0 @@
-[submodule "hugo/portfolio2022/themes/roxo"]
-	path = hugo/portfolio2022/themes/roxo
-	url = git@github.com:StaticMania/roxo-hugo.git
-[submodule "hugo/portfolio2022/themes/PaperMod"]
-	path = hugo/portfolio2022/themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
