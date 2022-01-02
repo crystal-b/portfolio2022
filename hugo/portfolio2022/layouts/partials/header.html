@@ -1,0 +1,7 @@
+<div id="navbar">
+	<nav id="main-nav">
+		{{ range .Site.Menus.main }}
+		<a class="nav-link" href="{{ .URL }}"></a>
+		{{ end }}
+	</nav>
+</div>
