@@ -12,6 +12,11 @@
 	color:  transparent;
 }
 
-.box-masonry .box-masonry-description img {
+.box-masonry .box-masonry-description img, 
+.box-masonry .box-masonry-description p:nth-child(2) {
 	display:  none;
+}
+
+.content-column-content h1 + p {
+	margin-top: -20px;
 }
