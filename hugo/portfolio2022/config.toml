@@ -10,7 +10,7 @@ theme = "hugo-creative-portfolio-theme"
   description = "Portfolio"
   copyright = "&copy;2022"
   sidebarAbout = [
-    "I am a digital designer who focuses on user experience, accessibility, and animation"
+    "I am a digital designer specializing in user experience, accessibility, and animation"
   ]
 
   [[params.navlinks]]

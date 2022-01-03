@@ -1,4 +1,13 @@
 /* your styles go here */
+.sidebar-p,
+.copyright {
+	color: #333;
+}
+.credit, 
 .attrb {
 	color: transparent;
+}
+.credit, 
+.attrb a {
+	color:  transparent;
 }
