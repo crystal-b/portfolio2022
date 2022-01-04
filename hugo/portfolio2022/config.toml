@@ -2,11 +2,12 @@ baseURL = "https://brusch.xyz"
 languageCode = "en-us"
 title = "Crystal Brusch"
 theme = "hugo-creative-portfolio-theme"
+googleAnalytics = "G-GSJ03798F1"
 
 [params]
-  # Style options: default pink, blue, (green), pink, red, sea, violet
+  # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "green"
   description = "Portfolio"
   copyright = "&copy;2022"
   sidebarAbout = [
