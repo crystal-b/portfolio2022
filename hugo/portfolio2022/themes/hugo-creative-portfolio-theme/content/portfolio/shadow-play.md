@@ -1,5 +1,5 @@
 +++
-image = "/shadow_thumb.jpg"
+image = "/shadow_thumb.png"
 showonlyimage = false
 date = "2022-01-03"
 title = "Shadow Play"
