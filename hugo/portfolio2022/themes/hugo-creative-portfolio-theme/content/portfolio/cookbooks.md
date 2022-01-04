@@ -1,8 +1,8 @@
 +++
 image = "/cookbook_thumb.png"
-showonlyimage = true
+showonlyimage = false
 date = "2022-01-03"
-title = "Digital Cookbooks"
+title = "Interactive Cookbooks"
 draft = false
 weight = 6
 +++
@@ -10,7 +10,7 @@ weight = 6
 
 ![Screenshot of Slavery and Justice][1]
 
-Interactive electronic cookbooks published by Hachette
+Interactive electronic cookbooks published by Hachette Digital
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
