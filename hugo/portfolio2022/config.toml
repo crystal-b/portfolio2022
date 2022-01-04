@@ -11,7 +11,7 @@ googleAnalytics = "G-GSJ03798F1"
   description = "Portfolio"
   copyright = "&copy;2022"
   sidebarAbout = [
-    "I am a digital designer specializing in user experience, accessibility, and animation"
+    "Digital designer specializing in user experience, accessibility, and animation"
   ]
 
   [[params.navlinks]]

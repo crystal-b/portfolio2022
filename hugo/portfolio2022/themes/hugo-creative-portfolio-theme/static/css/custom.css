@@ -24,6 +24,9 @@
 	color: #777;
 	margin-top: -20px;
 }
+.content-column-content p:nth-child(4) {
+	font-weight: 700;
+}
 h6 {
 	text-align: center;
 	font-weigh: 400;

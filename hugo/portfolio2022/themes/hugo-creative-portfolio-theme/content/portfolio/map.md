@@ -2,7 +2,7 @@
 image = "/map_thumb.png"
 showonlyimage = false
 date = "2022-01-03"
-title = "Map"
+title = "WALS Interactive Map"
 draft = false
 weight = 10
 +++
@@ -10,7 +10,7 @@ weight = 10
 
 ![Screenshot of Race and in America][1]
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+World Atlas of Languages map in D3.js
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
@@ -19,8 +19,6 @@ A small river named Duden flows by their place and supplies it with the necessar
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 ## Header Level 2
 

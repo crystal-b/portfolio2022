@@ -8,9 +8,9 @@ weight = 7
 +++
 2020, 2021
 
-![Screenshot of Slavery and Justice Report][1]
+![Screenshot of Slavery and Justice][1]
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Digital editions of the Brown University Report of the Steering Committee on Slavery and Justice
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
@@ -19,8 +19,6 @@ A small river named Duden flows by their place and supplies it with the necessar
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 
 ## Header Level 2
 
@@ -35,8 +33,7 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 
 ## Check Out the Live Sites
 
-[slaveryandjusticereport.brown.edu](https://www.slaveryandjusticereport.brown.edu)
-
+> [slaveryandjusticereport.brown.edu](https://www.slaveryandjusticereport.brown.edu)  
 [First Readings: Slavery & Justice](https://digitalpublications.brown.edu/projects/first-readings_slavery-and-justice)
 
 [1]: /justice.png
